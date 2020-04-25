@@ -1,0 +1,16 @@
+PODS:
+  - SimulatorRemoteNotifications (0.0.3)
+
+DEPENDENCIES:
+  - SimulatorRemoteNotifications (~> 0.0.3)
+
+SPEC REPOS:
+  trunk:
+    - SimulatorRemoteNotifications
+
+SPEC CHECKSUMS:
+  SimulatorRemoteNotifications: 1610643e0582b2af67bc254b071ace4077e8ef86
+
+PODFILE CHECKSUM: 00440848a76eabb70dbdef12e33b8965bd16a005
+
+COCOAPODS: 1.9.1
