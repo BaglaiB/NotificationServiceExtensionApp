@@ -1,6 +1,10 @@
 # NotificationServiceExtensionApp
 NotificationServiceExtensionApp with debugging on simulator
 
+
+## Pods 
+`pod install`
+
 ## Usage
 
 Use iOS Simulator Notifications.app to send notifications json's with two types:
